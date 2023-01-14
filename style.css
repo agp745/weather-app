@@ -40,7 +40,7 @@ body {
     height: 80px;
 }
 
-.header-current-tempy {
+.header-current-temp {
     font-size: 2rem;
     margin-left: 1rem;
 }
@@ -54,7 +54,7 @@ body {
     grid-template-rows: repeat(2, auto);
 }
 
-.info-gorup {
+.info-group {
     display: flex;
     flex-direction: column;
     align-items: center;
